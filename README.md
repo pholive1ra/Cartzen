@@ -1,16 +1,45 @@
-# React + Vite
+# CartZen 🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CartZen é um e-commerce moderno construído em **React** e **Tailwind**, com interface responsiva, gerenciamento de carrinho em tempo real e experiência de usuário inspirada em lojas reais. Ideal para demonstração de habilidades em **front-end** e boas práticas de **UI/UX**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Funcionalidades
 
-## React Compiler
+- Lista de produtos com cards interativos
+- Pesquisa de produtos por título
+- Adição de produtos ao carrinho com modal flutuante
+- Visualização do total do carrinho em tempo real
+- Remoção de produtos do carrinho
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tecnologias usadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Router](https://reactrouter.com/)
+- [Lucide Icons](https://lucide.dev/)
+- [FakeStore API](https://fakestoreapi.com/) para dados de produtos
+
+---
+
+## 🚀 Como rodar localmente
+
+1. Clone o repositório:
+git clone https://github.com/SEU_USUARIO/Cartzen.git
+
+2. Entre na pasta do projeto:
+cd Cartzen
+
+
+3. Instale as dependências:
+npm install
+
+
+4. Rode o projeto:
+npm start
+
+
+5. Abra no navegador:
+http://localhost:3000
