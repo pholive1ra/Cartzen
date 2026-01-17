@@ -1,6 +1,6 @@
-# CartZen 🛒
+# Cartzen 🛒
 
-CartZen é um e-commerce moderno construído em **React** e **Tailwind**, com interface responsiva, gerenciamento de carrinho em tempo real e experiência de usuário inspirada em lojas reais. Ideal para demonstração de habilidades em **front-end** e boas práticas de **UI/UX**.
+Cartzen é um e-commerce moderno construído em **React** e **Tailwind**, com interface responsiva, gerenciamento de carrinho em tempo real e experiência de usuário inspirada em lojas reais. Ideal para demonstração de habilidades em **front-end** e boas práticas de **UI/UX**.
 
 ---
 
