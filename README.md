@@ -27,7 +27,7 @@ Cartzen é um e-commerce moderno construído em **React** e **Tailwind**, com in
 ## 🚀 Como rodar localmente
 
 1. Clone o repositório:
-git clone https://github.com/SEU_USUARIO/Cartzen.git
+git clone https://github.com/pholive1ra/Cartzen.git
 
 2. Entre na pasta do projeto:
 cd Cartzen
